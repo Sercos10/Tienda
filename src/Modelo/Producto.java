@@ -9,7 +9,7 @@ public class Producto {
     private Double price;
 
     public Producto() {
-        this("","","",0.0);
+        this("", "", "", 0.0);
     }
 
     public Producto(String id, String description, String talla, Double price) {
